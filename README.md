@@ -14,6 +14,9 @@ Feel free to reach out if you'd like to collaborate or discuss any projects. I'm
 - Web Technologies: HTML, CSS
 - Tools: VS Code
 
+## 📈 GitHub Stats
+![Veronica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asora7&show_icons=true&theme=radical)
+
 ## 🚀 Projects
 - [Dough Dreams](https://github.com/NoroffFEU/FED1-PE1-Asora7.git): A blogging application where the owner can post and edit blog posts about baking. Includes admin login for managing content. Using HTML, CSS and Javascript
 - [Oslo Science Museum](https://github.com/Asora7/Semester-project-1.git): A website for a science museum for children. Using HTML and CSS
