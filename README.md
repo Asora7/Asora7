@@ -25,6 +25,10 @@ Feel free to reach out if you'd like to collaborate or discuss any projects. I'm
 - Javascript
 - Figma
 
+## 🌐 Connect with Me
+- [Instagarm](https://www.instagram.com/veronicaasora/)
+- Email: veronica_asora@hotmail.com
+
 
 
 
