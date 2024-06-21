@@ -2,6 +2,14 @@
 
 Hello! I'm Veronica and im 27 years old. I'm just finished my first year in school for front-end developer. I'm a passionate front-end developer student with a love for creating beautiful and user-friendly websites. I study in crafting responsive and engaging web experiences using the latest technologies such as HTML, CSS, and JavaScript.
 
+## 📑 Table of Contents
+- [About Me](#-about-me)
+- [Technologies & Tools](#-technologies--tools)
+- [GitHub Stats](#-github-stats)
+- [Projects](#-projects)
+- [Skills](#-skills)
+- [Connect with Me](#-connect-with-me)
+
 ## 😄 About me
 My journey in web development began with a strong interest in creating visually appealing and functional websites. Since then, I've had the opportunity to work on a variety of projects in school, from small personal websites to bigger applications. I'm constantly learning and exploring new techniques to improve my skills and stay updated with industry trends. My skills are HTML, CSS and Javascript.
 
