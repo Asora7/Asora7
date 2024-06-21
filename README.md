@@ -21,6 +21,7 @@ Feel free to reach out if you'd like to collaborate or discuss any projects. I'm
 - [Dough Dreams](https://github.com/NoroffFEU/FED1-PE1-Asora7.git): A blogging application where the owner can post and edit blog posts about baking. Includes admin login for managing content. Using HTML, CSS and Javascript
 - [Oslo Science Museum](https://github.com/Asora7/Semester-project-1.git): A website for a science museum for children. Using HTML and CSS
 - [Rainydays](https://github.com/Asora7/rainydays.git): A website that sells outdoor jackets. Users can browse the collection, view detailed information about each jacket, and add items to their shopping basket. Using HTML, CSS and Javascript
+- [Portfolio](https://github.com/Asora7/Portfolio.git): My portfolio including my projects. 
 
 ## ✨ Skills
 - HTML
