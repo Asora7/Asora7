@@ -21,6 +21,7 @@ Feel free to reach out if you'd like to collaborate or discuss any projects. I'm
 - Programming Languages: JavaScript
 - Web Technologies: HTML, CSS
 - Tools: VS Code
+- Hosting : Github pages
 
 ## 📈 GitHub Stats
 ![Veronica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asora7&show_icons=true&theme=radical)
