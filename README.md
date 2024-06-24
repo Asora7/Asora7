@@ -10,6 +10,19 @@ Hello! I'm Veronica and im 27 years old. I'm just finished my first year in scho
 - [Skills](#-skills)
 - [Connect with Me](#-connect-with-me)
 
+  ---
+
+<details>
+<summary>🌐 Connect with Me</summary>
+<br>
+
+- [Instagram](https://www.instagram.com/veronicaasora/)
+- Email: veronica_asora@hotmail.com
+
+</details>
+
+---
+
 ## 😄 About me
 My journey in web development began with a strong interest in creating visually appealing and functional websites. Since then, I've had the opportunity to work on a variety of projects in school, from small personal websites to bigger applications. I'm constantly learning and exploring new techniques to improve my skills and stay updated with industry trends. My skills are HTML, CSS and Javascript.
 
