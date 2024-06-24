@@ -12,14 +12,14 @@ Hello! I'm Veronica and im 27 years old. I'm just finished my first year in scho
 
   ---
 
-<details>
+<sidebar>
 <summary>🌐 Connect with Me</summary>
 <br>
 
 - [Instagram](https://www.instagram.com/veronicaasora/)
 - Email: veronica_asora@hotmail.com
 
-</details>
+</sidebar>
 
 ---
 
