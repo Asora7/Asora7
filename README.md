@@ -37,11 +37,6 @@ When I’m not coding, you’ll find me hiking with my dog or spending time with
 
 ---
 
-## 📈 GitHub Stats
-
-![Veronica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asora7&show_icons=true&theme=radical)
-
----
 
 ## ✨ Skills Summary
 
