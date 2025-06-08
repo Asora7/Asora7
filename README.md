@@ -1,47 +1,62 @@
-## Hi there, I'm Veronica 👋
+# 👋 Hi, I'm Veronica
 
-Hello! I'm Veronica and im 27 years old. I'm just finished my first year in school for front-end developer. I'm a passionate front-end developer student with a love for creating beautiful and user-friendly websites. I study in crafting responsive and engaging web experiences using the latest technologies such as HTML, CSS, and JavaScript.
+I'm a 27-year-old front-end developer student currently finishing my second year at Noroff. I’m passionate about creating beautiful, responsive, and user-friendly websites using modern tools like React, Vite, Tailwind CSS, and JavaScript.
 
-## 📑 Table of Contents
-- [About Me](#-about-me)
-- [Technologies & Tools](#-technologies--tools)
-- [GitHub Stats](#-github-stats)
-- [Projects](#-projects)
-- [Skills](#-skills)
-- [Connect with Me](#-connect-with-me)
-  
+---
 
-## 😄 About me
-My journey in web development began with a strong interest in creating visually appealing and functional websites. Since then, I've had the opportunity to work on a variety of projects in school, from small personal websites to bigger applications. I'm constantly learning and exploring new techniques to improve my skills and stay updated with industry trends. My skills are HTML, CSS and Javascript.
+## 📚 About Me
 
-When I'm not coding, you can find me in the nature with my dog or out enjoying life with good friends. I believe in the power of collaboration and enjoy working in teams to bring ideas to life. I'm excited to continue growing as a developer and contribute to meaningful projects that make a positive impact.
+My journey in web development started with a love for design and functionality. I’ve since built a variety of school projects – from small responsive websites to full-fledged booking systems and auction platforms. I’m always curious, constantly learning, and love turning ideas into interactive web experiences.
 
-Feel free to reach out if you'd like to collaborate or discuss any projects. I'm always open to new opportunities and eager to connect with fellow developers and enthusiasts. Let's create something amazing together!"
+When I’m not coding, you’ll find me hiking with my dog or spending time with friends. I love working in teams and believe great design is a mix of logic and emotion.
 
-## 🔧 Technologies & Tools
-- Programming Languages: JavaScript
-- Web Technologies: HTML, CSS
-- Tools: VS Code
-- Hosting : Github pages
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks:** React, Vite, Bootstrap, Tailwind CSS
+- **Tools:** VS Code, Figma, GitHub, Netlify
+- **Other:** Responsive design, accessibility, UI/UX fundamentals
+
+---
+
+## 💻 Notable Projects
+
+- [🛒 Urban Nest (E-Commerce App)](https://github.com/Asora7/course-assignment-ecom)  
+  JavaScript Frameworks Project – Built with React, search, cart, checkout, and contact form  
+  🔗 [Live Site](https://urbannestecom.netlify.app)
+
+- [🏷️ Auction Site](https://github.com/Asora7/semester-project-2)  
+  Semester Project 2 – Full frontend for bidding platform, user login, media upload  
+  🔗 [Live Site](https://asora-auction-site.netlify.app)
+
+- [🏨 Holidaze (Booking App)](https://github.com/Asora7/holidaze)  
+  Exam Project 2 – Booking system with calendar, role-based functionality, and responsive design  
+  🔗 [Live Site](https://holidaze-asora.netlify.app)
+
+---
 
 ## 📈 GitHub Stats
+
 ![Veronica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asora7&show_icons=true&theme=radical)
 
-## 🚀 Projects
-- [Dough Dreams](https://github.com/NoroffFEU/FED1-PE1-Asora7.git): A blogging application where the owner can post and edit blog posts about baking. Includes admin login for managing content. Using HTML, CSS and Javascript
-- [Oslo Science Museum](https://github.com/Asora7/Semester-project-1.git): A website for a science museum for children. Using HTML and CSS
-- [Rainydays](https://github.com/Asora7/rainydays.git): A website that sells outdoor jackets. Users can browse the collection, view detailed information about each jacket, and add items to their shopping basket. Using HTML, CSS and Javascript
-- [Portfolio](https://github.com/Asora7/Portfolio.git): My portfolio including my projects. 
+---
 
-## ✨ Skills
-- HTML
-- CSS
-- Javascript
-- Figma
+## ✨ Skills Summary
+
+- Semantic HTML5 and modern CSS
+- React + React Router DOM
+- Vite & Netlify deployment
+- API integration
+- Figma for UI/UX design
+- Prettier + ESLint + Git for code quality
+
+---
 
 ## 🌐 Connect with Me
-- [Instagarm](https://www.instagram.com/veronicaasora/)
-- Email: veronica_asora@hotmail.com
 
+- 📸 [Instagram](https://www.instagram.com/veronicaasora/)
+- 📧 Email: veronica_asora@hotmail.com
 
 
