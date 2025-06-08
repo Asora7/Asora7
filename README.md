@@ -8,7 +8,7 @@ I'm a 27-year-old front-end developer student currently finishing my second year
 
 My journey in web development started with a love for design and functionality. I’ve since built a variety of school projects – from small responsive websites to full-fledged booking systems and auction platforms. I’m always curious, constantly learning, and love turning ideas into interactive web experiences.
 
-When I’m not coding, you’ll find me hiking with my dog or spending time with friends. I love working in teams and believe great design is a mix of logic and emotion.
+When I’m not coding, you’ll find me hiking with my dog or spending time with friends. I love working in teams.
 
 ---
 
