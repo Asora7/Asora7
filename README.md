@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Veronica
 
-I'm a 27-year-old front-end developer student currently finishing my second year at Noroff. I’m passionate about creating beautiful, responsive, and user-friendly websites using modern tools like React, Vite, Tailwind CSS, and JavaScript.
+I'm a 27-year-old front-end developer student currently finishing my second year at Noroff. I’m passionate about creating beautiful, responsive, and user-friendly websites using modern tools like React, Vite, Tailwind CSS, Bootstrap and JavaScript.
 
 ---
 
